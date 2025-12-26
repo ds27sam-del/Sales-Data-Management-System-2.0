@@ -1,0 +1,5 @@
+# Minimum tested Python version: 3.10
+mysql-connector-python>=8.0
+pandas>=1.5
+matplotlib>=3.6
+maskpass>=0.3
